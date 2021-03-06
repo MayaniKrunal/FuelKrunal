@@ -16,6 +16,9 @@ export default CompareComponent = () => {
     ];
     const colors = ['#008fcd', '#ffcf33', '#ff7625', '#002a7b', '#87c42b'];
 
+    
+    
+    
     return (
         <SafeAreaView style={{ flex: 1 }}>
             <View style={styles.maincontainer}>
